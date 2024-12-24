@@ -1,0 +1,111 @@
+blacklist_servers: []
+generate_role_id: null
+keys:
+  admin:
+    duration: 999d
+    uses: 1
+logs_channel: null
+partner_servers: []
+servers:
+  '1025466574389395578':
+    activation_code: null
+    activation_duration: null
+    admin_role: null
+    automod_channel: null
+    automod_role: null
+    cogs:
+      AutoBackup: true
+      Automod: true
+      Clan: true
+      Economy: true
+      GitHub: true
+      Logs: true
+      Moderation: true
+      Monitoring: true
+      Music: true
+      PrivateVoice: true
+      Profile: true
+      Reputation: true
+      Role: true
+      RolePlay: true
+      Ticket: true
+      TicketsFaq: true
+      TrashTalk: true
+      Verification: true
+      Voice: true
+      WebhookTools: true
+    private_category: null
+    private_channels: null
+    ticket_category: null
+    ticket_channel: null
+    verification_channel: null
+    verification_removerole: null
+    verification_roleadd: null
+  '1078635710803869807':
+    activation_code: null
+    activation_duration: null
+    admin_role: null
+    automod_channel: null
+    automod_role: null
+    cogs:
+      AutoBackup: true
+      Automod: true
+      Clan: true
+      Economy: true
+      GitHub: true
+      Logs: true
+      Moderation: true
+      Monitoring: true
+      Music: true
+      PrivateVoice: true
+      Profile: true
+      Reputation: true
+      Role: true
+      RolePlay: true
+      Ticket: true
+      TicketsFaq: true
+      TrashTalk: true
+      Verification: true
+      Voice: true
+      WebhookTools: true
+    private_category: null
+    private_channels: null
+    ticket_category: null
+    ticket_channel: null
+    verification_channel: null
+    verification_removerole: null
+    verification_roleadd: null
+  '1304184238496677969':
+    activation_code: null
+    activation_duration: null
+    admin_role: null
+    automod_channel: null
+    automod_role: null
+    cogs:
+      AutoBackup: true
+      Automod: true
+      Clan: true
+      Economy: true
+      GitHub: true
+      Logs: true
+      Moderation: true
+      Monitoring: true
+      Music: true
+      PrivateVoice: true
+      Profile: true
+      Reputation: true
+      Role: true
+      RolePlay: true
+      Ticket: true
+      TicketsFaq: true
+      TrashTalk: true
+      Verification: true
+      Voice: true
+      WebhookTools: true
+    private_category: null
+    private_channels: null
+    ticket_category: null
+    ticket_channel: null
+    verification_channel: null
+    verification_removerole: null
+    verification_roleadd: null
